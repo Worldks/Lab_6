@@ -105,4 +105,3 @@ public class BouncingBall implements Runnable {
     }
 
 }
-
